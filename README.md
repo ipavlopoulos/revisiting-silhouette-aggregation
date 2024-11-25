@@ -7,13 +7,14 @@ Silhouette coefficient is an established internal clustering evaluation measure 
 ---
 The paper, presented at the 27th International Conference on Discovery Science 2024, Pisa, Italy, received the Best Paper runner up.
 
-A preprint exists ([https://arxiv.org/html/2401.05831v3](https://arxiv.org/abs/2401.05831)), which you can cite as:
+A preprint exists ([https://arxiv.org/abs/2401.05831](https://arxiv.org/abs/2401.05831)), which you can cite as:
 
 ```
-@article{vardakas2024revisiting,
-  title={Revisiting Silhouette: From Micro to Macro Aggregation},
-  author={Vardakas, Georgios and Pavlopoulos, John and Likas, Aristidis},
-  journal={arXiv preprint arXiv:2401.05831},
+@article{pavlopoulos2024revisiting,
+  title={Revisiting Silhouette Aggregation},
+  author={Pavlopoulos, John and Vardakas, Georgios and Likas, Aristidis},
+  journal={arXiv e-prints},
+  pages={arXiv--2401},
   year={2024}
 }
 ```
