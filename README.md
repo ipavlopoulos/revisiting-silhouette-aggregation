@@ -5,8 +5,9 @@ Silhouette coefficient is an established internal clustering evaluation measure 
 ![micro-sil increasing](https://arxiv.org/html/2401.05831v3/extracted/5685400/expanded_clusters.jpg)
 
 ---
-The paper was presented and achieved the best paper runner up at the 27th International Conference on Discovery Science 2024, Pisa, Italy.
-A preprint exists [here](https://arxiv.org/html/2401.05831v3), which you can cite as:
+The paper, presented at the 27th International Conference on Discovery Science 2024, Pisa, Italy, received the Best Paper runner up.
+
+A preprint exists ([https://arxiv.org/html/2401.05831v3](https://arxiv.org/abs/2401.05831)), which you can cite as:
 
 ```
 @article{vardakas2024revisiting,
