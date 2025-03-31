@@ -18,3 +18,8 @@ A preprint exists ([https://arxiv.org/abs/2401.05831](https://arxiv.org/abs/2401
   year={2024}
 }
 ```
+---
+Acknowledging Aggelos Semoglou for extending the work with [a composite Sihouette metric](https://github.com/semoglou/composite_silhouette), which is also available in PyPi. Install it using `pip install composite-silhouette` and import it in Python as:
+```python
+>>> from composite_silhouette import CompSil as composil
+```
